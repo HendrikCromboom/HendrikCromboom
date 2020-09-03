@@ -1,6 +1,6 @@
 # Greetings, my name is Hendrik Cromboom
 
-## Aspiring developer and eager learner
+### Aspiring developer and eager learner
 - 🌱 BeCode Young Grasshopper
 - 🥅 2021 Goal: Becoming a full-stack web developer
 
