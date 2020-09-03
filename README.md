@@ -3,6 +3,7 @@
 ## Aspiring developer and eager learner
 - 🌱 BeCode Young Grasshopper
 - 🥅 2021 Goal: Becoming a full-stack web developer
+<img allign="left" alt="codewarstats" src"=https://www.codewars.com/users/HendrikCromboom/badges/small" />
 
 ### Find me here:
 
