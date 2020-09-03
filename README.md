@@ -10,6 +10,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codewarsss | Codewars" width="auto" src="https://www.codewars.com/users/HendrikCromboom/badges/small" />][codewars]
 
 <br />
 
@@ -31,3 +32,4 @@
 
 [instagram]: https://instagram.com/hendrikcrmbm
 [linkedin]: https://www.linkedin.com/in/hendrik-cromboom-99b68450/
+[codewars]: https://www.codewars.com/users/HendrikCromboom
