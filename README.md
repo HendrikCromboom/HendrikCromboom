@@ -2,8 +2,7 @@
 
 ### Aspiring developer and eager learner
 - 🌱 BeCode Young Grasshopper
-- 🥅 2021 Goals:  -Becoming a full-stack web developer    [X]
-                  - Land my first full time dev job        [ ]
+- 🥅 2021 Goals: Contribute more to opensource projects
 ---
 
 ### Find me here:
