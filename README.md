@@ -1,8 +1,8 @@
 # Greetings, my name is Hendrik Cromboom
 
-### Aspiring developer and eager learner
-- 🌱 BeCode Young Grasshopper
-- 🥅 2021 Goals: Contribute more to opensource projects
+### C-sharp, .NET developer and eager learner
+- 🌱 Junior .NET developer @Brainsolutions
+- 🥅 2021 Goals: Create a cmd game with engine
 ---
 
 ### Find me here:
