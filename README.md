@@ -1,8 +1,8 @@
 # Greetings, my name is Hendrik Cromboom
 
-### C-sharp, .NET developer and eager learner
-- 🌱 Junior .NET developer @Brainsolutions
-- 🥅 2021 Goals: Create a cmd game with engine
+### Software Developer and eager learner
+- 🌱 C#, .NET, JAVA, JS, Angular, ...
+- 🥅 2022 Goals: Learn a Functional Programing Language
 ---
 
 ### Find me here:
