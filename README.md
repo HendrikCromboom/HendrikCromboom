@@ -8,7 +8,6 @@
 ### Find me here:
 
 [<img align="left" alt="HendrikCromboom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HendrikCromboom | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
 [<img align="left" alt="codewarsss | Codewars" width="auto" src="https://www.codewars.com/users/HendrikCromboom/badges/small" />][codewars]
