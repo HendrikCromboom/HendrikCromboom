@@ -36,8 +36,5 @@
 
 ---
 
-###### *Credits to [Jesse Hall](https://github.com/codeSTACKr) for teaching me how to make a github profile like this*
-
-[instagram]: https://instagram.com/hendrikcrmbm
 [linkedin]: https://www.linkedin.com/in/hendrik-cromboom-99b68450/
 [codewars]: https://www.codewars.com/users/HendrikCromboom
