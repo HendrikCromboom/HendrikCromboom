@@ -1,7 +1,7 @@
 # Greetings, my name is Hendrik Cromboom
 
 ### Portfolio
-- [BarmAIn](https://github.com/HendrikCromboom/barmain): MCP Server and Tools + MCP Client + Langchain Agent + Local LLM (STATUS: In Progress:MVP ready for terminal use)
+- [BarmAIn](https://github.com/HendrikCromboom/barmain): Python + MCP Server and Tools + MCP Client + Langchain Agent + Local LLM (STATUS: In Progress:MVP ready for terminal use)
 ---
 
 ### Software Developer and eager learner
