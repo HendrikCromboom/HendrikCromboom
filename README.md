@@ -1,8 +1,12 @@
 # Greetings, my name is Hendrik Cromboom
 
+### Portfolio
+- [BarmAIn](https://github.com/HendrikCromboom/barmain): MCP Server and Tools + MCP Client + Langchain Agent + Local LLM (STATUS: In Progress:MVP ready for terminal use)
+---
+
 ### Software Developer and eager learner
-- 🌱 C#, .NET, JAVA, JS, Angular, ...
-- 🥅 2022 Goals: Learn a Functional Programing Language
+- 🌱 Python, C#, .NET, JAVA, JS, Angular, ...
+- 🥅 2025 Goals: Upskill my ML and AI knowledge in combination with a related portfolio
 ---
 
 ### Find me here:
