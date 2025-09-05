@@ -2,6 +2,7 @@
 
 ### Portfolio
 - [BarmAIn](https://github.com/HendrikCromboom/barmain): Python + MCP Server and Tools + MCP Client + Langchain Agent + Local LLM (STATUS: In Progress:MVP ready for terminal use)
+- [Math Helper Tool MCP Server](https://github.com/HendrikCromboom/AI-LLM-math-helper-tools): Python + MCP Server specialized in solving linear algebra equations
 ---
 
 ### Software Developer and eager learner
