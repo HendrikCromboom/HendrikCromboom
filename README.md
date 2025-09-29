@@ -1,6 +1,7 @@
 # Greetings, my name is Hendrik Cromboom
 
 ### Portfolio
+- [Three JS Crane Controller](https://github.com/HendrikCromboom/three-js-crane-controller/): Vite + React + Three JS mock crane controller [Try HERE!](https://hendrikcromboom.github.io/three-js-crane-controller/)
 - [Google Trend Evaluator](https://github.com/HendrikCromboom/google-trends-digestion-agent): Agent flow that scrapes, evaluates and provides context to google trend data
 - [BarmAIn](https://github.com/HendrikCromboom/barmain): Python + MCP Server and Tools + MCP Client + Langchain Agent + Local LLM (STATUS: In Progress:MVP ready for terminal use)
 - [Math Helper Tool MCP Server](https://github.com/HendrikCromboom/AI-LLM-math-helper-tools): Python + MCP Server specialized in solving linear algebra equations
